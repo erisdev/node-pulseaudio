@@ -66,5 +66,8 @@
   ],
   "versionist": {
     "publishedAt": "2022-08-25T21:03:42.439Z"
-  }
+  },
+  "eslintIgnore": [
+    "build/**/*"
+  ]
 }
